@@ -1,0 +1,68 @@
+{
+    "main" : {
+        "language" : "Sprache",
+        "header_title" : "Laden Sie Video, Bild, Reels von <span></span> herunter",
+        "header_desc" : "Laden Sie Video Instagram, Photo, Reels, Stories online herunter",
+        "input_placeholder" : "Link hier einfügen",
+        "download_now" : "Jetzt Downloaden",
+        "download" : "Download",
+        "loading" : "Laden..."
+    },
+    "errors" : {
+        "url_null" : "Bitte geben Sie eine gültige URL ein.",
+        "invalid_url" : "Ungültige URL, bitte überprüfen Sie Ihre Eingabe."
+    },
+    "instructions" : {
+        "title" : "Anweisungen für die Download-Funktion",
+        "desc" : "Befolgen Sie die nachstehenden Anweisungen, um die Inhalte herunterzuladen",
+        "card1_title" : "Inhaltsoptionen öffnen",
+        "card1_desc" : "Klicken Sie auf die drei Punkte in der oberen rechten Ecke des Inhalts.",
+        "card2_title" : "Kopieren Sie die URL",
+        "card2_desc" : "Kopieren Sie die URL, indem Sie auf die Schaltfläche \"Link kopieren\" klicken.",
+        "card3_title" : "Fügen Sie die URL in das Insta Save Tool ein",
+        "card3_desc" : "Fügen Sie die URL in das „Insta Save Tool“ ein und klicken Sie auf die Schaltfläche „Jetzt herunterladen“. Nachdem die Ergebnisse aufgelistet sind, können Sie den gewünschten Artikel herunterladen, indem Sie die Schaltflächen \"Herunterladen\" verwenden."
+    },
+    "features" : {
+        "title" : "Merkmale",
+        "photos_title" : "Fotos herunterladen",
+        "photos_desc" : "Laden Sie einzelne und mehrere Bilder von Instagram in hoher Auflösung herunter. Es ist schnell und einfach zu bedienen.",
+        "reels_title" : "Rollen herunterladen",
+        "reels_desc" : "Das Insta Save Tool ist einfach und sicher. Sie können Reels auf Instagram in hoher Auflösung herunterladen, indem Sie den Anweisungen folgen.",
+        "stories_title" : "Geschichten herunterladen",
+        "stories_desc" : "Sie können ganz einfach alle Videos und Bilder in Instagram-Geschichten auf einmal herunterladen, alle Inhalte, die nach der Geschichte kommen, deren URL Sie hinzufügen, werden heruntergeladen."
+    },
+    "footer" : {
+        "pages" : "Merkmale",
+        "photos" : "Fotos",
+        "videos" : "Videos",
+        "reels" : "Reels",
+        "stories" : "Geschichten",
+        "highlights" : "Höhepunkte",
+        "information" : "Information",
+        "contact" : "Kontakt",
+        "privacy_policy" : "Datenschutz-Bestimmungen",
+        "terms_and_conditions" : "Geschäftsbedingungen",
+        "copyright_left" : "© 2022 Urheberrechte von",
+        "copyright_right" : ". Alle Rechte vorbehalten."
+    },
+    "contact" : {
+        "title" : "Kontaktiere uns",
+        "name_placeholder" : "Name",
+        "email_placeholder" : "E-Mail-Addresse *",
+        "phone_placeholder" : "Telefon",
+        "subject_placeholder" : "Thema *",
+        "message_placeholder" : "Wie können wir Ihnen helfen?",
+        "errors" : {
+            "captcha" : "Bitte bestehen Sie die Captcha-Verifizierung!",
+            "message" : "Ihre Nachricht darf nicht kürzer als 20 Zeichen sein!",
+            "mail" : "Geben Sie bitte Ihre Email-Adresse ein!",
+            "success" : "Ihre Nachricht wurde erfolgreich gesendet!",
+            "error" : "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+        }
+    },
+    "404" : {
+        "title" : "Hoppla! Hier scheint nichts zu sein.",
+        "text" : "Die gesuchte Seite wurde nicht gefunden. Wir empfehlen Ihnen, nach Hause zurückzukehren. Es ist einfach...",
+        "back_home" : "Zurück nach Hause"
+    }
+}

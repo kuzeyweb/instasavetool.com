@@ -1,0 +1,68 @@
+{
+    "main" : {
+        "language" : "Language",
+        "header_title" : "Download Videos, Photos, Reels from <span></span>",
+        "header_desc" : "Download Video Instagram, Photo, Reels, Stories online",
+        "input_placeholder" : "Insert link here",
+        "download_now" : "Download Now",
+        "download" : "Download",
+        "loading" : "Loading..."
+    },
+    "errors" : {
+        "url_null" : "Please enter a valid URL.",
+        "invalid_url" : "Invalid URL, please check your input."
+    },
+    "instructions" : {
+        "title" : "Instructions for Download Feature",
+        "desc" : "Follow the instructions below to download the contents",
+        "card1_title" : "Open options of content",
+        "card1_desc" : "Click on the three dots in the upper right corner of the content.",
+        "card2_title" : "Copy the URL",
+        "card2_desc" : "Copy the URL by clicking the \"Copy Link\" button.",
+        "card3_title" : "Paste URL to Insta Save Tool",
+        "card3_desc" : "Paste the URL into the \"Insta Save Tool\" and press the \"Download Now\" button. After the results are listed, you can download the item you want by using the \"Download\" buttons."
+    },
+    "features" : {
+        "title" : "Features",
+        "photos_title" : "Download Photos",
+        "photos_desc" : "Download single and multiple pictures from Instagram in high resolution. It is quick and easy to use.",
+        "reels_title" : "Download Reels",
+        "reels_desc" : "Insta Save Tool is easy and safe, you can download Reels on Instagram in high resolution by following the instructions.",
+        "stories_title" : "Download Stories",
+        "stories_desc" : "You can easily download all the videos and pictures in Instagram stories at once, all content that comes after the story whose URL you add will be downloaded."
+    },
+    "footer" : {
+        "pages" : "Features",
+        "photos" : "Photos",
+        "videos" : "Videos",
+        "reels" : "Reels",
+        "stories" : "Stories",
+        "highlights" : "Highlights",
+        "information" : "Information",
+        "contact" : "Contact",
+        "privacy_policy" : "Privacy Policy",
+        "terms_and_conditions" : "Terms & Conditions",
+        "copyright_left" : "© 2022 Copyrights by",
+        "copyright_right" : ". All Rights Reserved."
+    },
+    "contact" : {
+        "title" : "Contact Us",
+        "name_placeholder" : "Name",
+        "email_placeholder" : "Email Address *",
+        "phone_placeholder" : "Phone",
+        "subject_placeholder" : "Subject *",
+        "message_placeholder" : "How can we help you?",
+        "errors" : {
+            "captcha" : "Please pass the captcha verification!",
+            "message" : "Your message cannot be shorter than 20 characters!",
+            "mail" : "Please enter your e-mail address!",
+            "success" : "Your message has been sent successfully!",
+            "error" : "An error occurred, please try again later."
+        }
+    },
+    "404" : {
+        "title" : "Opps! Looks like here is nothing.",
+        "text" : "The page you’re looking for isn’t found. We suggest you back to home. It’s easy...",
+        "back_home" : "Back to Home"
+    }
+}

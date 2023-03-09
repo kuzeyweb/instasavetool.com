@@ -1,0 +1,68 @@
+{
+    "main" : {
+        "language" : "Language",
+        "header_title" : "Descargar videos, fotos, carretes de <span></span>",
+        "header_desc" : "Descargar video Instagram, fotos, reels, historias en línea",
+        "input_placeholder" : "Insertar enlace aquí",
+        "download_now" : "Descargar Ahora",
+        "download" : "Descargar",
+        "loading" : "Cargando..."
+    },
+    "errors" : {
+        "url_null" : "Por favor introduzca un URL válido.",
+        "invalid_url" : "URL no válida, verifique su entrada."
+    },
+    "instructions" : {
+        "title" : "Instrucciones para la función de descarga",
+        "desc" : "Siga las instrucciones a continuación para descargar los contenidos.",
+        "card1_title" : "Abrir opciones de contenido",
+        "card1_desc" : "Haga clic en los tres puntos en la esquina superior derecha del contenido.",
+        "card2_title" : "Copia la URL",
+        "card2_desc" : "Copie la URL haciendo clic en el botón \"Copiar enlace\".",
+        "card3_title" : "Pegue la URL en Insta Save Tool",
+        "card3_desc" : "Pegue la URL en la \"Herramienta para guardar Insta\" y presione el botón \"Descargar ahora\". Una vez que se enumeran los resultados, puede descargar el elemento que desee utilizando los botones \"Descargar\"."
+    },
+    "features" : {
+        "title" : "Características",
+        "photos_title" : "Descargar Fotos",
+        "photos_desc" : "Descargue imágenes únicas y múltiples de Instagram en alta resolución. Es rápido y fácil de usar.",
+        "reels_title" : "Descargar carretes",
+        "reels_desc" : "Insta Save Tool es fácil y seguro, puede descargar Reels en Instagram en alta resolución siguiendo las instrucciones.",
+        "stories_title" : "Descargar historias",
+        "stories_desc" : "Puede descargar fácilmente todos los videos e imágenes en las historias de Instagram a la vez, todo el contenido que viene después de la historia cuya URL agrega se descargará."
+    },
+    "footer" : {
+        "pages" : "Características",
+        "photos" : "Fotos",
+        "videos" : "Vídeos",
+        "reels" : "Reels",
+        "stories" : "Cuentos",
+        "highlights" : "Reflejos",
+        "information" : "Información",
+        "contact" : "Contacto",
+        "privacy_policy" : "Política de privacidad",
+        "terms_and_conditions" : "Términos y condiciones",
+        "copyright_left" : "© 2022 Derechos de autor de",
+        "copyright_right" : ". Reservados todos los derechos."
+    },
+    "contact" : {
+        "title" : "Contacta con nosotros",
+        "name_placeholder" : "Nombre",
+        "email_placeholder" : "Correo electrónico *",
+        "phone_placeholder" : "Teléfono",
+        "subject_placeholder" : "Sujeto *",
+        "message_placeholder" : "Como podemos ayudarte?",
+        "errors" : {
+            "captcha" : "¡Pase la verificación de captcha!",
+            "message" : "¡Tu mensaje no puede tener menos de 20 caracteres!",
+            "mail" : "¡Por favor, introduzca su dirección de correo electrónico!",
+            "success" : "¡Tu mensaje ha sido enviado exitosamente!",
+            "error" : "Ocurrió un error, inténtalo de nuevo más tarde."
+        }
+    },
+    "404" : {
+        "title" : "¡Ups! Parece que aquí no hay nada.",
+        "text" : "La página que estás buscando no se encuentra. Te sugerimos volver a casa. Es fácil...",
+        "back_home" : "De vuelta a casa"
+    }
+}

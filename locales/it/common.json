@@ -1,0 +1,68 @@
+{
+    "main" : {
+        "language" : "Language",
+        "header_title" : "Scarica video, foto, bobine da <span></span>",
+        "header_desc" : "Scarica video Instagram, foto, reels, storie online",
+        "input_placeholder" : "Inserisci qui il link",
+        "download_now" : "Scarica ora",
+        "download" : "Scarica",
+        "loading" : "Caricamento"
+    },
+    "errors" : {
+        "url_null" : "Inserisci un URL valido.",
+        "invalid_url" :"URL non valido, controlla il tuo input."
+    },
+    "instructions" : {
+        "title" : "Istruzioni per la funzione di download",
+        "desc" : "Segui le istruzioni qui sotto per scaricare i contenuti",
+        "card1_title" : "Apri opzioni di contenuto",
+        "card1_desc" : "Fai clic sui tre punti nell'angolo in alto a destra del contenuto.",
+        "card2_title" : "Copia l'URL",
+        "card2_desc" : "Copia l'URL facendo clic sul pulsante \"Copia collegamento\".",
+        "card3_title" : "Incolla l'URL nello strumento di salvataggio di Insta",
+        "card3_desc" : "Incolla l'URL nello \"Strumento di salvataggio di Insta\" e premi il pulsante \"Scarica ora\". Dopo aver elencato i risultati, puoi scaricare l'elemento desiderato utilizzando i pulsanti \"Download\"."
+    },
+    "features" : {
+        "title" : "Caratteristiche",
+        "photos_title" : "Scarica foto",
+        "photos_desc" : "Scarica immagini singole e multiple da Instagram in alta risoluzione. È veloce e facile da usare.",
+        "reels_title" : "Scarica Reels",
+        "reels_desc" : "Insta Save Tool è facile e sicuro, puoi scaricare Reels su Instagram in alta risoluzione seguendo le istruzioni.",
+        "stories_title" : "Scarica storie",
+        "stories_desc" : "Puoi scaricare facilmente tutti i video e le immagini nelle storie di Instagram contemporaneamente, tutti i contenuti che vengono dopo la storia di cui aggiungi l'URL verranno scaricati."
+    },
+    "footer" : {
+        "pages" : "Caratteristiche",
+        "photos" : "Foto",
+        "videos" : "Video",
+        "reels" : "Reels",
+        "stories" : "Storie",
+        "highlights" : "Highlights",
+        "information" : "Informazioni",
+        "contact" : "Contatto",
+        "privacy_policy" : "Informativa sulla privacy",
+        "terms_and_conditions" : "Termini e condizioni",
+        "copyright_left" : "© 2022 Copyright di",
+        "copyright_right" : ". Tutti i diritti riservati."
+    },
+    "contact" : {
+        "title" : "Contattaci",
+        "name_placeholder" : "Nome",
+        "email_placeholder" : "Indirizzo e-mail *",
+        "phone_placeholder" : "Telefono",
+        "subject_placeholder" : "Argomento *",
+        "message_placeholder" : "Come possiamo aiutarti?",
+        "errors" : {
+            "captcha" : "Si prega di superare la verifica captcha!",
+            "message" : "Il tuo messaggio non può essere più corto di 20 caratteri!",
+            "mail" : "Inserisci il tuo indirizzo email!",
+            "success" : "Il tuo messaggio è stato inviato con successo!",
+            "error" : "Si è verificato un errore, riprova più tardi."
+        }
+    },
+    "404" : {
+        "title" : "Ops! Sembra che qui non ci sia niente.",
+        "text" : "La pagina che stai cercando non è stata trovata. Ti suggeriamo di tornare a casa. È facile...",
+        "back_home" : "Tornare a casa"
+    }
+}

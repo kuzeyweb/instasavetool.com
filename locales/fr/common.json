@@ -1,0 +1,69 @@
+{
+    "main" : {
+        "language" : "Language",
+        "header_title" : "Télécharger des vidéos, des photos, des bobines d'<span></span>",
+        "header_desc" : "Télécharger la vidéo Instagram, Photo, Reels, Stories en ligne",
+        "input_placeholder" : "Insérer le lien ici",
+        "download_now" : "Télécharger maintenant",
+        "download" : "Télécharger",
+        "loading" : "Chargement..."
+
+    },
+    "errors" : {
+        "url_null" : "Veuillez saisir une URL valide.",
+        "invalid_url" : "URL non valide, veuillez vérifier votre saisie."
+    },
+    "instructions" : {
+        "title" : "Instructions pour la fonction de téléchargement",
+        "desc" : "Suivez les instructions ci-dessous pour télécharger le contenu",
+        "card1_title" : "Ouvrir les options de contenu",
+        "card1_desc" : "Cliquez sur les trois points dans le coin supérieur droit du contenu.",
+        "card2_title" : "Copiez l'URL",
+        "card2_desc" : "Copiez l'URL en cliquant sur le bouton \"Copier le lien\".",
+        "card3_title" : "Collez l'URL dans Insta Save Tool",
+        "card3_desc" : "Collez l'URL dans \"Insta Save Tool\" et appuyez sur le bouton \"Télécharger maintenant\". Une fois les résultats répertoriés, vous pouvez télécharger l'élément souhaité en utilisant les boutons \"Télécharger\"."
+    },
+    "features" : {
+        "title" : "Fonctionnalités",
+        "photos_title" : "Télécharger des photos",
+        "photos_desc" : "Téléchargez des images uniques et multiples d'Instagram en haute résolution. Il est rapide et facile à utiliser.",
+        "reels_title" : "Télécharger les reels",
+        "reels_desc" : "Insta Save Tool est simple et sûr, vous pouvez télécharger Reels sur Instagram en haute résolution en suivant les instructions.",
+        "stories_title" : "Télécharger des histoires",
+        "stories_desc" : "Vous pouvez facilement télécharger toutes les vidéos et images dans les histoires Instagram à la fois, tout le contenu qui vient après l'histoire dont vous ajoutez l'URL sera téléchargé."
+    },
+    "footer" : {
+        "pages" : "Fonctionnalités",
+        "photos" : "Photos",
+        "videos" : "Vidéos",
+        "reels" : "Reels",
+        "stories" : "Histoires",
+        "highlights" : "Points forts",
+        "information" : "Informations",
+        "contact" : "Contact",
+        "privacy_policy" : "Politique de confidentialité",
+        "terms_and_conditions" : "Termes et Conditions",
+        "copyright_left" : "© 2022 Droits d'auteur par",
+        "copyright_right" : ". Tous les droits sont réservés."
+    },
+    "contact" : {
+        "title" : "Nous Contacter",
+        "name_placeholder" : "Nom",
+        "email_placeholder" : "Adresse e-mail *",
+        "phone_placeholder" : "Téléphone",
+        "subject_placeholder" : "Sujet *",
+        "message_placeholder" : "Comment pouvons-nous vous aider?",
+        "errors" : {
+            "captcha" : "Veuillez passer la vérification captcha!",
+            "message" : "Votre message ne peut pas être inférieur à 20 caractères!",
+            "mail" : "Veuillez saisir votre adresse e-mail !",
+            "success" : "Votre message a été envoyé avec succès!",
+            "error" : "Une erreur s'est produite, veuillez réessayer plus tard."
+        }
+    },
+    "404" : {
+        "title" : "Oops! On dirait qu'il n'y a rien ici.",
+        "text" : "La page que vous recherchez est introuvable. Nous vous proposons de rentrer chez vous. C'est facile...",
+        "back_home" : "De retour à la maison"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "main" : {
+        "language" : "Dil",
+        "header_title" : "<span></span>'dan Video, Resim ve Reels indirin",
+        "header_desc" : "Instagram Resim, Video, Reels ve Hikayeleri cihazınıza indirin!",
+        "input_placeholder" : "URL'yi yapıştırın",
+        "download_now" : "Hemen İndir",
+        "download" : "İndir",
+        "loading" : "Yükleniyor..."
+    },
+    "errors" : {
+        "url_null" : "Lütfen geçerli bir URL giriniz.",
+        "invalid_url" : "Hatalı URL, lütfen adresi kontrol ediniz."
+    },
+    "instructions" : {
+        "title" : "Nasıl Kullanılır?",
+        "desc" : "İçerikleri indirebilmek için aşağıdaki talimatları izleyin",
+        "card1_title" : "İçeriğin seçeneklerini açın",
+        "card1_desc" : "Sağ üst köşede bulunan üç noktaya basarak seçenekleri açın.",
+        "card2_title" : "URL'yi kopyalayın",
+        "card2_desc" : "\"Bağlantıyı Kopyala\" tuşuna basarak URL'yi kopyalayın.",
+        "card3_title" : "URL'yi Insta Save Tool'a yapıştırın",
+        "card3_desc" : "URL'yi Insta Save Tool'a yapıştırın ve \"Hemen İndir\" butonuna basın. Sonuçlar listelendikten sonra, \"İndir\" butonuna basarak istediğiniz öğeyi indirin."
+    },
+    "features" : {
+        "title" : "Özellikler",
+        "photos_title" : "Resim İndir",
+        "photos_desc" : "Tekli ve çoklu Instagram resimlerini yüksek çözünürlüklü indirin. Hızlı ve kullanması kolaydır.",
+        "reels_title" : "Reels İndir",
+        "reels_desc" : "Insta Save Tool kullanması kolay ve güvenlidir, talimatları izleyerek Instagram Reels'leri indirebilirsiniz.",
+        "stories_title" : "Hikaye İndir",
+        "stories_desc" : "Tek seferde ve kolayca tüm hikaye öğelerini indirin, yapıştırdığınız URL'den sonra gelen tüm hikayeler listelecektir."
+    },
+    "footer" : {
+        "pages" : "Özellikler",
+        "photos" : "Resimler",
+        "videos" : "Videolar",
+        "reels" : "Reels",
+        "stories" : "Hikayeler",
+        "highlights" : "Öne Çıkanlar",
+        "information" : "Bilgi",
+        "contact" : "İletişim",
+        "privacy_policy" : "Gizlilik Politikası",
+        "terms_and_conditions" : "Şartlar & Koşullar",
+        "copyright_left" : "© 2022 Kullanım hakları",
+        "copyright_right" : " 'e aittir. Tüm hakları saklıdır."
+    },
+    "contact" : {
+        "title" : "Bize Ulaşın",
+        "name_placeholder" : "İsim",
+        "email_placeholder" : "Email Adresi *",
+        "phone_placeholder" : "Telefon",
+        "subject_placeholder" : "Konu",
+        "message_placeholder" : "Size nasıl yardımcı olabiliriz?",
+        "errors" : {
+            "captcha" : "Lütfen captcha doğrulamasını geçiniz!",
+            "message" : "Mesajınız 20 karakterden kısa olamaz!",
+            "mail" : "Lütfen mail adresinizi girin!",
+            "success" : "Mesajınız başarıyla gönderildi!",
+            "error" : "Bir hata oluştu lütfen daha sonra tekrar deneyin."
+        }
+    }
+}
