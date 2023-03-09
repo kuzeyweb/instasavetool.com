@@ -1,17 +1,9 @@
 import FavoriteIcon from '@mui/icons-material/Favorite';
-import { useEffect } from 'react';
 import useTranslation from 'next-translate/useTranslation';
 
 export const SearchResults = ({ data }) => {
 
   const { t } = useTranslation("common");
-
-  useEffect(() => {
-    if (data) {
-      var scrollDiv = document.getElementById("results").offsetTop;
-      window.scrollTo({ top: scrollDiv, behavior: 'smooth' });
-    }
-  }, [data]);
 
   const downloadFile = async (path, filename) => {
     try {

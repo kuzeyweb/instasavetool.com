@@ -6,6 +6,7 @@ import useTranslation from 'next-translate/useTranslation';
 import Head from "next/head";
 import Link from 'next/link';
 import Script from 'next/script';
+import {useRouter} from 'next/router'
 
 const options = [
     { value: 'en', label: 'English' },
@@ -19,7 +20,7 @@ const options = [
 export default function Contact() {
 
     const { t } = useTranslation("common");
-
+    const router = useRouter();
 
     const [formData, setFormData] = useState({
         name: "",
@@ -111,7 +112,7 @@ export default function Contact() {
                                         id="selectbox"
                                         instanceId="selectbox"
                                         className="rounded-pill butn-blue6 hover-blue2 sm-butn fw-bold"
-                                        onChange={(language) => window.location.href = `/${language.value}`}
+                                        onChange={(language) => {  router.push(router.pathname, router.asPath, { locale: language.value })}}
                                         placeholder="Language"
                                         options={options}
                                     />

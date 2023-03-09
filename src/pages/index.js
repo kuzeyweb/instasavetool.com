@@ -11,6 +11,7 @@ import { isUrl } from "../../utils/Utils";
 import Head from "next/head";
 import Link from 'next/link';
 import Script from 'next/script';
+import {useRouter} from 'next/router'
 
 const options = [
     { value: 'en', label: 'English' },
@@ -23,6 +24,7 @@ const options = [
 
 export default function Homepage(){
     const { t } = useTranslation("common");
+    const router = useRouter();
 
     const [errorMessage, setErrorMessage] = useState();
     const [url, setURL] = useState('');
@@ -100,7 +102,7 @@ export default function Homepage(){
                                         id="selectbox"
                                         instanceId="selectbox"
                                         className="rounded-pill butn-blue6 hover-blue2 sm-butn fw-bold"
-                                        onChange={(language) => window.location.href = `/${language.value}`}
+                                        onChange={(language) => {  router.push(router.pathname, router.asPath, { locale: language.value })}}
                                         placeholder="Language"
                                         options={options}
                                     />
